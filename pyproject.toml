@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sysexit"
-version = "0.1"
+version = "0.1.1"
 authors = [
   { name="Wendelin Wemhöner", email="wendelin.wemhoener@gmail.com" },
 ]
